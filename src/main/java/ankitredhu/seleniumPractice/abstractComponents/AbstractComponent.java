@@ -74,5 +74,9 @@ public class AbstractComponent {
 		
 	}
 	
+	public void brancTest() {
+		
+	}
+	
 
 }
