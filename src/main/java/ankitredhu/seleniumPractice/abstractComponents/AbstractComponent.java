@@ -70,5 +70,9 @@ public class AbstractComponent {
 		
 	}
 	
+	public void secondWasteMethod() {
+		
+	}
+	
 
 }
