@@ -64,5 +64,11 @@ public class AbstractComponent {
 		wait.until(ExpectedConditions.alertIsPresent());
 	}
 	
+	//learning purpose no use in this project can be removed
+	public void wasteMethod() {
+		System.out.println("This method can be removed");
+		
+	}
+	
 
 }
